@@ -12,6 +12,7 @@
 
 ## 👤 Student Information
 
+| Field | Details |
 |:------|:--------|
 | **Name** | CHUNDURI VIKRANTH |
 | **Roll No.** | 241210032 |
