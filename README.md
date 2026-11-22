@@ -14,9 +14,9 @@
 
 | Field | Details |
 |:------|:--------|
-| **Name** | ANKITH YADAV |
-| **Roll No.** | 241210017 |
-| **Course** | Computer Networks Lab (CSBB 301) |
+| **Name** | CHUNDURI VIKRANTH |
+| **Roll No.** | 241210032 |
+| **Course** | Computer Networks (CSBB 301) |
 | **Department** | Computer Science and Engineering |
 
 ---
