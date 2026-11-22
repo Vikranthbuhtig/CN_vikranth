@@ -274,6 +274,4 @@ python3 udp_client.py
 
 <div align="center">
 
-**Computer Networks Lab (CSBB 301)** · ANKITH YADAV · 241210017
-
 </div>
